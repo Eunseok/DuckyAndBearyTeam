@@ -3,7 +3,9 @@
 ## 1. 게임 개요
 **Ducky & Beary**는 장난감 오리(Ducky)와 곰인형(Beary)이 욕실을 배경으로 다양한 퍼즐을 풀며 출구를 찾아가는 2D 플랫포머 퍼즐 게임입니다. 플레이어는 두 캐릭터의 특성을 활용하여 장애물을 극복하고 목표 지점까지 도달해야 합니다.
 
-[![Video Label](http://img.youtube.com/vi/spMOn-UkE8I/0.jpg)](https://youtu.be/spMOn-UkE8I)
+### 시연 영상
+
+* [https://www.youtube.com/watch?v=FnkZZv62so4](https://www.youtube.com/watch?v=9pwQn8l8PgI)
 
 
 ---
